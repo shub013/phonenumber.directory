@@ -1,10 +1,10 @@
 # Phone Directory Management System
 
-Problem Statement
+## Problem Statement
 
 Managing phone contacts manually on paper or in unorganized files makes it difficult to search, update, and delete contact information. This project provides a simple digital phone directory using Python.
 
-Scope
+## Scope
 
 The system allows users to store, search, view, and delete contacts. All contact data is saved in a text file so that it remains available even after the program is closed.
 
